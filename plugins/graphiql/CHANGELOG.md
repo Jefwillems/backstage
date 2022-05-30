@@ -1,5 +1,11 @@
 # @backstage/plugin-graphiql
 
+## 0.2.38-next.1
+
+### Patch Changes
+
+- 464c33f932: Fix for custom headers not being included in requests.
+
 ## 0.2.38-next.0
 
 ### Patch Changes

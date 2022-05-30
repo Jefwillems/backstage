@@ -1,5 +1,11 @@
 # @backstage/backend-tasks
 
+## 0.3.2-next.1
+
+### Patch Changes
+
+- 7f108513b8: Add error logging when a background task throws an error rather than silently swallowing it.
+
 ## 0.3.2-next.0
 
 ### Patch Changes

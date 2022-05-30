@@ -152,13 +152,16 @@
     "@backstage/plugin-todo": "0.2.7",
     "@backstage/plugin-todo-backend": "0.1.29",
     "@backstage/plugin-user-settings": "0.4.4",
-    "@backstage/plugin-xcmetrics": "0.2.25"
+    "@backstage/plugin-xcmetrics": "0.2.25",
+    "@backstage/plugin-github-pull-requests-board": "0.0.0"
   },
   "changesets": [
     "afraid-mangos-sip",
     "beige-deers-remember",
     "blue-roses-give",
+    "create-app-1653908348",
     "fair-grapes-joke",
+    "fifty-planes-dream",
     "fluffy-candles-learn",
     "fresh-items-punch",
     "funny-suns-pay",
@@ -166,9 +169,12 @@
     "healthy-pets-mix",
     "hungry-brooms-wash",
     "itchy-avocados-hug",
+    "large-monkeys-visit",
     "loud-jars-kick",
     "loud-walls-itch",
     "mean-turtles-reply",
+    "modern-pandas-agree",
+    "moody-worms-rhyme",
     "nervous-gorillas-approve",
     "odd-baboons-buy",
     "olive-rats-rest",
@@ -178,12 +184,16 @@
     "quick-ladybugs-try",
     "real-beers-type",
     "reject-failed-index-tasks",
+    "renovate-126b147",
     "renovate-ad175cc",
     "scaffolder-form-context",
+    "search-eight-hounds-worry",
+    "shaggy-crabs-return",
     "shiny-clocks-joke",
     "short-jokes-applaud",
     "silly-wombats-flash",
     "sixty-plums-kick",
+    "sixty-poems-drum",
     "slimy-elephants-attend",
     "spotty-goats-look",
     "tasty-snails-boil",
@@ -195,7 +205,9 @@
     "techdocs-ways-type",
     "techdocs-wolves-carry",
     "ten-rocks-smile",
+    "tricky-hounds-cry",
     "unlucky-lies-pretend",
-    "wicked-teachers-hide"
+    "wicked-teachers-hide",
+    "wise-nails-hang"
   ]
 }
